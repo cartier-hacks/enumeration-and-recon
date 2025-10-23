@@ -22,22 +22,13 @@ Automated network reconnaissance using Nmap with custom bash scripting
 
 ---
 
-### 1.2 Enumeration with NMAP and Zenmap
-
-#### Operating system detection and SMB share enumeration on corporate network
-
-- **Skills**: OS fingerprinting with Zenmap, SMB enumeration, network share discovery
-- **Techniques**: OS detection scanning, SMB share mapping, file system enumeration
-- **Tools**: Zenmap, nmap, net view (Windows), smbclient
-- **Scenario**: Security analyst ensuring corporate network is free from vulnerabilities and identifying shared folders
-
-### 1.3 DNS Enumeration and Reconnaissance
+### [1.2 DNS Enumeration and Reconnaissance](https://github.com/cartier-hacks/enumeration-and-recon/tree/main/dns_enumeration)
 
 #### DNS infrastructure analysis and subdomain discovery
 
-- **Skills**: DNS querying, zone transfers, subdomain enumeration
-- **Techniques**: DNS zone transfer attempts, reverse DNS lookups, DNS brute forcing
-- **Tools**: dig, nslookup, dnsenum, dnsrecon, fierce
+- **Skills**: DNS querying, subdomain enumeration, specific outputs
+- **Techniques**: Targeted DNS record queries (A, MX, NS), script friendly outputs, multi-source intel
+- **Tools**: dig, nslookup, whois, arin, ip2location, AbuseIPDB
 
 ---
 
