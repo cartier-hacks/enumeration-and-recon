@@ -32,12 +32,12 @@ Automated network reconnaissance using Nmap with custom bash scripting
 
 ---
 
-### 1.4 Performing a Decoy Scan
+### [1.3 Performing a Decoy Scan](https://github.com/cartier-hacks/enumeration-and-recon/tree/main/decoy_scanning)
 
 #### IDS/IPS evasion using decoy scanning techniques on corporate network
 
 - **Skills**: Evasion techniques, traffic obfuscation, IDS testing, packet analysis
-- **Techniques**: Decoy IP generation, stealth scanning, traffic capture analysis
+- **Techniques**: Decoy IP generation, traffic capture analysis
 - **Tools**: nmap (decoy mode), Wireshark, Zenmap
 
 ---
